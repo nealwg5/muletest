@@ -4,7 +4,7 @@
   ],
   "secureProperties": [],
   "redeploymentEnabled": true,
-  "name": "ecf6ba06-1cd1-44a8-bf19-417a8d95a8b3:hellomule:1.0.0",
+  "name": "com.mycompany:hellomule:1.0.0",
   "minMuleVersion": "4.3.0",
   "requiredProduct": "MULE",
   "classLoaderModelLoaderDescriptor": {
