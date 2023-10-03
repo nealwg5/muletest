@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ecf6ba06-1cd1-44a8-bf19-417a8d95a8b3</groupId>
-	<artifactId>hellomule</artifactId>
+	<artifactId>githubactionsci-cdpipeline</artifactId>
 	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
